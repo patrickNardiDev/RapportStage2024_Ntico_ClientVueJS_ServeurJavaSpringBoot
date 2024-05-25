@@ -1,4 +1,6 @@
-# Rapport de stage 2024 entreprise Ntico  : application web Client VueJS, Serveur Java Spring Boot
+# Rapport de stage 2024 entreprise Ntico dans le cadre du RNCP 31678 de niveau 6 Concepteur Développeur d'application, ESRP 2isa Millau
+
+Application web Client VueJS, Serveur Java Spring Boot
 
 ![1716618778435](image/README/1716618778435.png)
 
